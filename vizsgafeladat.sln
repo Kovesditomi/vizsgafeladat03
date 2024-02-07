@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vizsgafeladat", "vizsgafeladat\vizsgafeladat.csproj", "{2A020F0D-322F-4AE2-ACBF-915431B6B511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A020F0D-322F-4AE2-ACBF-915431B6B511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A020F0D-322F-4AE2-ACBF-915431B6B511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A020F0D-322F-4AE2-ACBF-915431B6B511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A020F0D-322F-4AE2-ACBF-915431B6B511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37F8CE69-7F32-46D1-AE9F-6CD2EA0EC11C}
+	EndGlobalSection
+EndGlobal
